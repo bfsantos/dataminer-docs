@@ -58,6 +58,7 @@ Usage-based services are charged based on the actual monthly usage of services, 
 | Optional functions | Licensed per node: Correlation and Automation engines, Dashboard app, No-Code Apps, Low-Code Apps, Process Automation, DataMiner Object Models (DOM), and Spectrum Analysis | Not applicable. All optional modules are included. |
 | Automation & orchestration | Based on the volume of concurrent services running. | Based on the volume of script runs. |
 | Connectors | Connector license per different, interfaced product | Per connector per month |
+| Custom applications | licensed per app | charged as engineering services |
 | Sample applications | Included | Included |
 | Cloud services | [Tier-based](https://community.dataminer.services/dataminer-cloud-platform-services/) | Usage-based |
 | Support services | Optional annual recurring fee, relative to the value of the deployed Perpetual-Use Licenses. | Included (see [DataMiner Support Plans](https://community.dataminer.services/support-services/)) |

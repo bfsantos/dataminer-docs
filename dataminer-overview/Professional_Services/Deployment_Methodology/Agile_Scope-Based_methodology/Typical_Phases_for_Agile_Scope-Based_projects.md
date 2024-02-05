@@ -25,6 +25,13 @@ At the start of the Offering exercise, the Project Squad clearly describes the k
 
 The goal is not to provide an extended list of requirements or activities to be performed, but rather what the end goal is, closer to a Project Mission Statement, setting the direction for the work to be done, ensuring that the squad has a laser-focused mission that it can continuously refer to while executing the project, so that joint decisions of the Project Squad throughout the project are always aimed at what goes to the heart of the project (which may not always be in line with what was specified in the initial high-level requirements).
 
+### Value Delivery Plan
+
+The Value Delivery Plan outlines the delivery strategy, how the work that needs to be done is prioritized to maximize value. As the ultimate purpose is to deliver maximum value in line with the specified goals, objectives and requirements, and within the agreed time frame and budget, value needs to be clearly defined, and activity planning needs to be aligned with this. 
+
+Usually, the value delivery plan breaks down the larger project objectives into smaller missions, sorted from the highest to lowest value. At the very least, it should include a mission statement for the first **30 or 90 days**, depending on the complexity. This definition should clearly define the scope of the first working product, which may start with the objectives that provide maximum value or, alternatively, it may start with deliverables with higher levels of uncertainty, to confirm that they can be achieved before venturing into the larger project. Even if in an earlier or rudimentary state, this first delivery allows the user to experiment with the product early on, helping the team stay focused and ensuring that the product is delivered on time and within budget.
+
+
 ### Preliminary Solution Backlog
 
 The Preliminary Solution Backlog is created as part of a commercial offer for a DataMiner Solution that will be deployed based on the Agile Scope-Based methodology. It contains a preliminary list of all known activities required for the deployment of the DataMiner Solution, along with the effort size (time-budget estimate) required for each of those activities, and their uncertainty score. Activities are usually grouped in so-called buckets.
@@ -33,11 +40,7 @@ The Uncertainty Score is the risk level for the estimate accuracy, a high uncert
 
 Note that because of the nature of software projects, time forecasts on an activity level cannot be perfect. The main purpose of the Preliminary Solution Backlog is to get a realistic estimate of the overall consolidated workload for the design and deployment of the DataMiner Solution that fulfills the project's Goals & Objectives, within a committed fixed budget and delivery time frame. The Agile Scope-Based methodology allows exactly for that, as there's complete flexibility to move around time budget between activities based on priorities (e.g. spend less time on UI work and shift that time to automation logic).
 
-### Value Delivery Plan
 
-The Value Delivery Plan outlines the delivery strategy, how the work that needs to be done is prioritized in order to maximize value. As the ultimate purpose is to deliver maximum value in line with the specified goals, objectives and requirements, and within the agreed time frame and budget, value needs to be clearly defined, and activity planning needs to be aligned with this. 
-
-At the very least, the Value Delivery Plan should include a *Minimum Viable Product* (MVP) definition that sets the mission for the first **30 or 90 days**, depending on the complexity. This definition should clearly define the scope of the first working product. The MVP may start with the objectives that provide maximum value or, alternatively, it may start with deliverables with higher levels of uncertainty, to confirm that they can be achieved before venturing into the larger project. Even if in an earlier or rudimentary state, this first delivery allows the user to experiment with the product early on, helping the team stay focused and ensuring that the product is delivered on time and within budget.
 
 ### Projected Workload
 
